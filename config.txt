@@ -1,0 +1,6 @@
+port:8080
+video_files_dir:/home/alexander/vid/
+video_format:mp4
+thumbnails_dir:/home/alexander/thumbs/
+max_thumb_width:1000
+max_thumb_height:1000
