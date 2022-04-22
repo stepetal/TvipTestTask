@@ -1,0 +1,3 @@
+[submodule "ffmpegthumbnailer"]
+	path = ffmpegthumbnailer
+	url = https://github.com/dirkvdb/ffmpegthumbnailer
